@@ -1,0 +1,10 @@
+.\Flash\rit.o: rit.c
+.\Flash\rit.o: rit.h
+.\Flash\rit.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\Flash\rit.o: C:\Software\Keil\ARM\CMSIS\Include\core_cm3.h
+.\Flash\rit.o: C:\Software\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Flash\rit.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Flash\rit.o: C:\Software\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Flash\rit.o: C:\Software\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\Flash\rit.o: C:\Software\Keil\ARM\RV31\INC\RTL.h
+.\Flash\rit.o: GLCD.h
